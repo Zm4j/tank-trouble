@@ -1,0 +1,109 @@
+﻿  Win32_bit_platform.cpp
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\BMP.h(133,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(131,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(136,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(227,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(228,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(233,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(233,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(236,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(236,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(244,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(261,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(262,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(286,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(287,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(305,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(309,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(322,93): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(322,163): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(323,95): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(323,167): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(338,93): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(338,163): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(339,93): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(339,163): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(353,93): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(353,163): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(354,93): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(354,163): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(368,100): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(368,170): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(369,100): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(369,170): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(383,95): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(383,165): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(384,97): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(384,167): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(400,100): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(400,170): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(430,53): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(451,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(452,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(474,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(475,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(496,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(497,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(519,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(520,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(542,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(543,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(565,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(566,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(590,89): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(590,176): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(597,178): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(597,173): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(597,153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(597,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(599,249): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(599,244): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(599,224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(599,195): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(600,249): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(600,244): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(600,224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(600,195): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(601,217): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(601,212): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(601,192): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(601,163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(602,217): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(602,212): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(602,192): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(602,163): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(627,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(628,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(629,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(630,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(656,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(656,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(665,132): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(665,107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(671,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(671,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(677,132): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(677,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(683,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(683,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(709,509): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(709,443): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(709,377): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(714,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(714,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(714,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(720,236): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(720,101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(723,235): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(723,100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(758,234): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(758,99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(860,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(913,28): warning C4244: '=': conversion from 'LPARAM' to 'int', possible loss of data
+C:\Users\jovan\Desktop\vs zadaci\TENKICI\my game\Win32_bit_platform.cpp(918,13): warning C4244: 'initializing': conversion from 'WPARAM' to 'int', possible loss of data
+  Generating code
+  2 of 345 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  my game.vcxproj -> C:\Users\jovan\Desktop\vs zadaci\TENKICI\x64\Release\my game.exe

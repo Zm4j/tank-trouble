@@ -1,0 +1,25 @@
+﻿  Win32_bit_platform.cpp
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(176): warning C4305: '+=': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(178): warning C4305: '-=': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(180): warning C4305: '*=': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(181): warning C4305: '-=': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(261): warning C4007: 'WinMain': must be '__stdcall'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(346): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(346): warning C4305: '+=': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(354): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(573): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(573): warning C4305: '+=': truncation from 'double' to 'float'
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(582): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(581): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(585): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\some folders from desktop\new game\made myself\my game\my game\win32_bit_platform.cpp(584): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 276 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  my game.vcxproj -> D:\some folders from desktop\new game\made myself\my game\Release\my game.exe
