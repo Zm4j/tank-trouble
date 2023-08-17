@@ -1,7 +1,5 @@
 # Tanks
 
-![alt text](/gamephoto1.png)
-
 app written in cpp, classless
 
 To start game, go to x64/Release/my game.exe
@@ -16,3 +14,5 @@ notes:
  map is generated randomly, and has different zoom, depending on size of map
 
  game parameters, controls and everything else can't be modified (yet)
+
+ ![alt text](/gamephoto1.png)
